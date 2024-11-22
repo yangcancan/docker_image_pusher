@@ -1,5 +1,5 @@
 redis
 mysql
 rabbitmq
-minio
+minio/minio
 mongo
