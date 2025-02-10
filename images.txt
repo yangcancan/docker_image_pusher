@@ -3,3 +3,4 @@ mysql
 rabbitmq
 minio/minio
 mongo
+node
