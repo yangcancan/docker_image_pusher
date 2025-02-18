@@ -4,3 +4,4 @@ rabbitmq
 minio/minio
 mongo
 node
+mlflow
