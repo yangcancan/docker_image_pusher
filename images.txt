@@ -1,7 +1,1 @@
-redis
-mysql
-rabbitmq
-minio/minio
-mongo
-node
 mlflow
