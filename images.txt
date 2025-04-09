@@ -1,1 +1,1 @@
-bitnami/patroni:2.1.4-postgresql15
+zalando/patroni:v2.1.4
