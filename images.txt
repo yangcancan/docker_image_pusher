@@ -1,1 +1,1 @@
-haproxy:2.6
+bitnami/patroni:2.1.4-postgresql15
