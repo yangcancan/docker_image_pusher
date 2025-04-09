@@ -1,2 +1,1 @@
-bitnami/patroni:2.1.4-postgresql15
 bitnami/patroni
