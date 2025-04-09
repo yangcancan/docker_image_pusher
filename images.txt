@@ -1,1 +1,1 @@
-zalando/patroni:v2.1.4
+jaegertracing/all-in-one:1.42
