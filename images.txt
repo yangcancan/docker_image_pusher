@@ -1,1 +1,1 @@
-zalando/patroni
+registry.opensource.zalan.do/acid/spilo-15:2.2-p1
