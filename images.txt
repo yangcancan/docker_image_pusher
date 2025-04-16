@@ -1,1 +1,1 @@
-jina-ai/jina-reranker-v2-m3
+xprobe/xinference:v1.4.1-cpu
