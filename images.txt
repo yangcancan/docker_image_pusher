@@ -1,1 +1,1 @@
-registry.opensource.zalan.do/acid/spilo-11:1.5-p5
+bitnami/postgresql-repmgr:15
