@@ -1,1 +1,1 @@
-xprobe/xinference:v1.4.1-cpu
+bitnami/postgresql-repmgr:17
