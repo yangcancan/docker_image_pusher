@@ -1,1 +1,1 @@
-bitnami/postgresql-repmgr:17
+postgresql-repmgr:14.11.0
