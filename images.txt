@@ -1,1 +1,1 @@
-postgresql-repmgr:14
+postgresql-repmgr:14-debian-11
