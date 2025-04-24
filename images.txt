@@ -1,1 +1,1 @@
-bitnami/postgresql-repmgr:14.11.0
+centos:7.9
