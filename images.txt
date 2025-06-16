@@ -1,1 +1,1 @@
-redis:6-alpine
+xprobe/xinference:v1.7.0
