@@ -1,1 +1,1 @@
-openresty/openresty:1.27.1.1-alpine
+pgvector/pgvector:0.8.0-pg16
