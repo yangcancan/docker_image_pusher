@@ -1,1 +1,1 @@
-pgvector/pgvector:0.8.0-pg16
+pytorch/pytorch:2.3.0-cuda12.1-cudnn8-runtime
