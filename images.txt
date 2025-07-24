@@ -1,1 +1,1 @@
-pytorch/pytorch:2.3.0-cuda12.1-cudnn8-runtime
+lmsysorg/sglang:v0.4.8.post1-cu126
