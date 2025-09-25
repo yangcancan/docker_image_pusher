@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2025-07-23T15-54-02Z
+xinference:v1.10.0
