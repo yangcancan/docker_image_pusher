@@ -1,1 +1,1 @@
-xprobe/xinference:v1.10.0
+flowiseai/flowise:latest
