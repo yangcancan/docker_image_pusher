@@ -1,1 +1,1 @@
-flowiseai/flowise:latest
+langflowai/langflow:latest
