@@ -1,1 +1,1 @@
-langflowai/langflow:latest
+mineru:latest
